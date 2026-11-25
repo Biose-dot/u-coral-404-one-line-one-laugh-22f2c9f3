@@ -9,3 +9,8 @@ Status: built, pending coordinator bundle+submit
 - Repo: https://github.com/Biose-dot/u-coral-404-one-line-one-laugh-22f2c9f3
 - Local run: `main.py` writes the line to `$MAKEFUN_OUTPUT_DIR/entry.txt`; validated 1 line / 106 chars; overlong-asset negative test fails loudly (exit 1).
 - Kit check: see final report (coordinator runs the real check with transcripts).
+
+- Submission ID: 01a21115-dce2-7788-9847-3664d5a5d803
+- Bundle: /home/hatch/workspace/makefun/u-coral-404-one-line-one-laugh-22f2c9f3-bundle.tar.gz
+- Status: submitted (see status output in finish-batch1116-e.log)
+- Submitted: 2026-11-25 WIB (batch-1116 grup e, builder+coordinator sessions)
